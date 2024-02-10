@@ -1,0 +1,26 @@
+db.AllToxinData.find({'_id' : 'T3D0001'})
+
+
+Toxin IDs:
+T3D0001
+T3D0002
+T3D0003
+T3D0004
+
+target ID :
+P00738
+
+
+synomyns:
+Fx; T beta-4; TB4X; THYB4; TMSB4
+
+
+
+health effect :
+Dieldrin is a neurotoxin and works by overstimulating the central nervous system. Ingestion of large amounts of dieldrin causes convulsions and death. However, chronic exposure to lower amounts of dieldrin also has adverse effects because dieldrin accumulates in the body. Dieldrin is known to damage the nervous system, liver, and immune system. (L87)
+
+
+
+locus:
+
+12q23-q24.1
